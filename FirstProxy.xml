@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="FirstProxy">
+    <Basepaths>/firstproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1542610606276</CreatedAt>
+    <CreatedBy>verma.govind92@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>FirstProxy</DisplayName>
+    <LastModifiedAt>1559463136858</LastModifiedAt>
+    <LastModifiedBy>verma.govind92@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:dcccdf0e3888ba7ddd5a9b5ff297b9e1d91bc4248b0d22d9b79c23f01918540948d7807464cf4acf9d3599f55b9f30299ff178b9d4fcaad2d28c4b6f3c1e6d6d</ManifestVersion>
+    <Policies>
+        <Policy>Message-Logging-1</Policy>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

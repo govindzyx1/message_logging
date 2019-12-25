@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageLogging async="false" continueOnError="false" enabled="true" name="Message-Logging-1">
+    <DisplayName>Message Logging-1</DisplayName>
+    <Syslog>
+        <Message>[abaeb882-3331-4b85-b03d-dd75be1f7cc0@41098
+        tag="{organization.name}.{environment.name}.{apiproxy.name}."]
+        Response received from the backend is {response.content}</Message>
+        <Host>logs-01.loggly.com</Host>
+        <Port>556</Port>
+    </Syslog>
+</MessageLogging>

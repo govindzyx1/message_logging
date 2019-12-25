@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quota name="Quota-1">
+    <Allow count="3"/>
+    <Interval>1</Interval>
+    <TimeUnit>minute</TimeUnit>
+</Quota>
